@@ -1,9 +1,9 @@
 # nyt-react-native
 react native with expo.
 
-npm run json-server 
-npm run server
-npm start
+npm run json-server. 
+npm run server.
+npm start.
 
 ENJOY nyt-react-native overview
 
