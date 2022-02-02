@@ -1,0 +1,1158 @@
+{
+  "book-category": {
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 59,
+    "results": [
+      {
+        "list_name": "Combined Print and E-Book Fiction",
+        "display_name": "Combined Print & E-Book Fiction",
+        "list_name_encoded": "combined-print-and-e-book-fiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Combined Print and E-Book Nonfiction",
+        "display_name": "Combined Print & E-Book Nonfiction",
+        "list_name_encoded": "combined-print-and-e-book-nonfiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Hardcover Fiction",
+        "display_name": "Hardcover Fiction",
+        "list_name_encoded": "hardcover-fiction",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Hardcover Nonfiction",
+        "display_name": "Hardcover Nonfiction",
+        "list_name_encoded": "hardcover-nonfiction",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Trade Fiction Paperback",
+        "display_name": "Paperback Trade Fiction",
+        "list_name_encoded": "trade-fiction-paperback",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Mass Market Paperback",
+        "display_name": "Paperback Mass-Market Fiction",
+        "list_name_encoded": "mass-market-paperback",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Paperback Nonfiction",
+        "display_name": "Paperback Nonfiction",
+        "list_name_encoded": "paperback-nonfiction",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "E-Book Fiction",
+        "display_name": "E-Book Fiction",
+        "list_name_encoded": "e-book-fiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "E-Book Nonfiction",
+        "display_name": "E-Book Nonfiction",
+        "list_name_encoded": "e-book-nonfiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Hardcover Advice",
+        "display_name": "Hardcover Advice & Misc.",
+        "list_name_encoded": "hardcover-advice",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2013-04-21",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Paperback Advice",
+        "display_name": "Paperback Advice & Misc.",
+        "list_name_encoded": "paperback-advice",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2013-04-21",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Advice How-To and Miscellaneous",
+        "display_name": "Advice, How-To & Miscellaneous",
+        "list_name_encoded": "advice-how-to-and-miscellaneous",
+        "oldest_published_date": "2013-04-28",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Hardcover Graphic Books",
+        "display_name": "Hardcover Graphic Books",
+        "list_name_encoded": "hardcover-graphic-books",
+        "oldest_published_date": "2009-03-15",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Paperback Graphic Books",
+        "display_name": "Paperback Graphic Books",
+        "list_name_encoded": "paperback-graphic-books",
+        "oldest_published_date": "2009-03-15",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Manga",
+        "display_name": "Manga",
+        "list_name_encoded": "manga",
+        "oldest_published_date": "2009-03-15",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Combined Print Fiction",
+        "display_name": "Combined Hardcover & Paperback Fiction",
+        "list_name_encoded": "combined-print-fiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2013-05-12",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Combined Print Nonfiction",
+        "display_name": "Combined Hardcover & Paperback Nonfiction",
+        "list_name_encoded": "combined-print-nonfiction",
+        "oldest_published_date": "2011-02-13",
+        "newest_published_date": "2013-05-12",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Chapter Books",
+        "display_name": "Children’s Chapter Books",
+        "list_name_encoded": "chapter-books",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2012-12-09",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Childrens Middle Grade",
+        "display_name": "Children’s Middle Grade",
+        "list_name_encoded": "childrens-middle-grade",
+        "oldest_published_date": "2012-12-16",
+        "newest_published_date": "2015-08-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Childrens Middle Grade E-Book",
+        "display_name": "Children’s Middle Grade E-Book",
+        "list_name_encoded": "childrens-middle-grade-e-book",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Childrens Middle Grade Hardcover",
+        "display_name": "Children’s Middle Grade Hardcover",
+        "list_name_encoded": "childrens-middle-grade-hardcover",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Childrens Middle Grade Paperback",
+        "display_name": "Children’s Middle Grade Paperback",
+        "list_name_encoded": "childrens-middle-grade-paperback",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Paperback Books",
+        "display_name": "Children’s Paperback Books",
+        "list_name_encoded": "paperback-books",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2012-12-09",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Picture Books",
+        "display_name": "Children’s Picture Books",
+        "list_name_encoded": "picture-books",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Series Books",
+        "display_name": "Children’s Series",
+        "list_name_encoded": "series-books",
+        "oldest_published_date": "2008-06-08",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Young Adult",
+        "display_name": "Young Adult",
+        "list_name_encoded": "young-adult",
+        "oldest_published_date": "2012-12-16",
+        "newest_published_date": "2015-08-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Young Adult E-Book",
+        "display_name": "Young Adult E-Book",
+        "list_name_encoded": "young-adult-e-book",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Young Adult Hardcover",
+        "display_name": "Young Adult Hardcover",
+        "list_name_encoded": "young-adult-hardcover",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2022-01-23",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Young Adult Paperback",
+        "display_name": "Young Adult Paperback",
+        "list_name_encoded": "young-adult-paperback",
+        "oldest_published_date": "2015-08-30",
+        "newest_published_date": "2017-01-29",
+        "updated": "WEEKLY"
+      },
+      {
+        "list_name": "Animals",
+        "display_name": "Animals",
+        "list_name_encoded": "animals",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Audio Fiction",
+        "display_name": "Audio Fiction",
+        "list_name_encoded": "audio-fiction",
+        "oldest_published_date": "2018-03-11",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Audio Nonfiction",
+        "display_name": "Audio Nonfiction",
+        "list_name_encoded": "audio-nonfiction",
+        "oldest_published_date": "2018-03-11",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Business Books",
+        "display_name": "Business",
+        "list_name_encoded": "business-books",
+        "oldest_published_date": "2013-11-03",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Celebrities",
+        "display_name": "Celebrities",
+        "list_name_encoded": "celebrities",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Crime and Punishment",
+        "display_name": "Crime and Punishment",
+        "list_name_encoded": "crime-and-punishment",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Culture",
+        "display_name": "Culture",
+        "list_name_encoded": "culture",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Education",
+        "display_name": "Education",
+        "list_name_encoded": "education",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Espionage",
+        "display_name": "Espionage",
+        "list_name_encoded": "espionage",
+        "oldest_published_date": "2014-12-14",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Expeditions Disasters and Adventures",
+        "display_name": "Expeditions",
+        "list_name_encoded": "expeditions-disasters-and-adventures",
+        "oldest_published_date": "2014-12-14",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Fashion Manners and Customs",
+        "display_name": "Fashion, Manners and Customs",
+        "list_name_encoded": "fashion-manners-and-customs",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Food and Fitness",
+        "display_name": "Food and Diet",
+        "list_name_encoded": "food-and-fitness",
+        "oldest_published_date": "2013-09-01",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Games and Activities",
+        "display_name": "Games and Activities",
+        "list_name_encoded": "games-and-activities",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Graphic Books and Manga",
+        "display_name": "Graphic Books and Manga",
+        "list_name_encoded": "graphic-books-and-manga",
+        "oldest_published_date": "2019-10-13",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Hardcover Business Books",
+        "display_name": "Hardcover Business Books",
+        "list_name_encoded": "hardcover-business-books",
+        "oldest_published_date": "2011-07-03",
+        "newest_published_date": "2013-10-13",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Health",
+        "display_name": "Health",
+        "list_name_encoded": "health",
+        "oldest_published_date": "2014-10-12",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Humor",
+        "display_name": "Humor",
+        "list_name_encoded": "humor",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Indigenous Americans",
+        "display_name": "Indigenous Americans",
+        "list_name_encoded": "indigenous-americans",
+        "oldest_published_date": "2014-12-14",
+        "newest_published_date": "2016-01-10",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Relationships",
+        "display_name": "Love and Relationships",
+        "list_name_encoded": "relationships",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Mass Market Monthly",
+        "display_name": "Mass Market",
+        "list_name_encoded": "mass-market-monthly",
+        "oldest_published_date": "2019-10-13",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Middle Grade Paperback Monthly",
+        "display_name": "Middle Grade Paperback",
+        "list_name_encoded": "middle-grade-paperback-monthly",
+        "oldest_published_date": "2019-10-13",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Paperback Business Books",
+        "display_name": "Paperback Business Books",
+        "list_name_encoded": "paperback-business-books",
+        "oldest_published_date": "2011-07-03",
+        "newest_published_date": "2013-10-13",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Family",
+        "display_name": "Parenthood and Family",
+        "list_name_encoded": "family",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Hardcover Political Books",
+        "display_name": "Politics and American History",
+        "list_name_encoded": "hardcover-political-books",
+        "oldest_published_date": "2011-07-03",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Race and Civil Rights",
+        "display_name": "Race and Civil Rights",
+        "list_name_encoded": "race-and-civil-rights",
+        "oldest_published_date": "2014-12-14",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Religion Spirituality and Faith",
+        "display_name": "Religion, Spirituality and Faith",
+        "list_name_encoded": "religion-spirituality-and-faith",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Science",
+        "display_name": "Science",
+        "list_name_encoded": "science",
+        "oldest_published_date": "2013-04-14",
+        "newest_published_date": "2019-09-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Sports",
+        "display_name": "Sports and Fitness",
+        "list_name_encoded": "sports",
+        "oldest_published_date": "2014-03-02",
+        "newest_published_date": "2019-09-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Travel",
+        "display_name": "Travel",
+        "list_name_encoded": "travel",
+        "oldest_published_date": "2014-09-07",
+        "newest_published_date": "2017-01-15",
+        "updated": "MONTHLY"
+      },
+      {
+        "list_name": "Young Adult Paperback Monthly",
+        "display_name": "Young Adult Paperback",
+        "list_name_encoded": "young-adult-paperback-monthly",
+        "oldest_published_date": "2019-10-13",
+        "newest_published_date": "2022-01-16",
+        "updated": "MONTHLY"
+      }
+    ]
+  },
+  "book-education": {
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 10,
+    "last_modified": "2019-08-29T21:23:18-04:00",
+    "results": {
+      "list_name": "Education",
+      "list_name_encoded": "education",
+      "bestsellers_date": "2016-12-31",
+      "published_date": "2017-01-15",
+      "published_date_description": "latest",
+      "next_published_date": "",
+      "previous_published_date": "2016-12-01",
+      "display_name": "Education",
+      "normal_list_ends_at": 10,
+      "updated": "MONTHLY",
+      "books": [
+        {
+          "rank": 1,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0374533555",
+          "primary_isbn13": "9780374533557",
+          "publisher": "Farrar, Straus & Giroux",
+          "description": "A winner of the Nobel in economic science discusses how we make choices in business and personal lives and when we can and cannot trust our intuitions.",
+          "price": "0.00",
+          "title": "THINKING, FAST AND SLOW",
+          "author": "Daniel Kahneman",
+          "contributor": "by Daniel Kahneman",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+          "book_image_width": 330,
+          "book_image_height": 490,
+          "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0374275637",
+              "isbn13": "9780374275631"
+            },
+            {
+              "isbn10": "0739357980",
+              "isbn13": "9780739357989"
+            },
+            {
+              "isbn10": "0374533555",
+              "isbn13": "9780374533557"
+            },
+            {
+              "isbn10": "0606275649",
+              "isbn13": "9780606275644"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374533557"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHINKING%25252C%252BFAST%252BAND%252BSLOW%252FDaniel%252BKahneman%252F9780374533557&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHINKING%25252C%252BFAST%252BAND%252BSLOW%252BDaniel%252BKahneman"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780374533557&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHINKING%252C%2BFAST%2BAND%2BSLOW"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780374533557%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHINKING%252C%2BFAST%2BAND%2BSLOW%2BDaniel%2BKahneman%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9"
+        },
+        {
+          "rank": 2,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "1501111108",
+          "primary_isbn13": "9781501111105",
+          "publisher": "Scribner",
+          "description": "A psychologist says passion and perseverance are the keys to success.",
+          "price": "0.00",
+          "title": "GRIT",
+          "author": "Angela Duckworth",
+          "contributor": "by Angela Duckworth",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+          "book_image_width": 328,
+          "book_image_height": 495,
+          "amazon_product_url": "http://www.amazon.com/Grit-The-Power-Passion-Perseverance-ebook/dp/B010MH9V3W?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "https://www.nytimes.com/2016/05/08/books/review/grit-by-angela-duckworth.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "1501111108",
+              "isbn13": "9781501111105"
+            },
+            {
+              "isbn10": "1501111124",
+              "isbn13": "9781501111129"
+            },
+            {
+              "isbn10": "1442397144",
+              "isbn13": "9781442397149"
+            },
+            {
+              "isbn10": "1501111116",
+              "isbn13": "9781501111112"
+            },
+            {
+              "isbn10": "1442397136",
+              "isbn13": "9781442397132"
+            },
+            {
+              "isbn10": "1501144162",
+              "isbn13": "9781501144165"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/Grit-The-Power-Passion-Perseverance-ebook/dp/B010MH9V3W?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781501111105?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501111105"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FGRIT%252FAngela%252BDuckworth%252F9781501111105&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DGRIT%252BAngela%252BDuckworth"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501111105&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DGRIT"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501111105%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DGRIT%2BAngela%2BDuckworth%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/1e121a80-5501-5e47-be12-9169b765da78"
+        },
+        {
+          "rank": 3,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0544668251",
+          "primary_isbn13": "9780544668256",
+          "publisher": "Houghton Mifflin Harcourt",
+          "description": "Cells, elevators, smartphones, nuclear reactors and more are demystified with simply annotated blueprints. From the author of \"What If?\"",
+          "price": "0.00",
+          "title": "THING EXPLAINER",
+          "author": "Randall Munroe",
+          "contributor": "by Randall Munroe",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780544668256.jpg",
+          "book_image_width": 330,
+          "book_image_height": 477,
+          "amazon_product_url": "http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0544668251",
+              "isbn13": "9780544668256"
+            },
+            {
+              "isbn10": "054466860X",
+              "isbn13": "9780544668607"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/Thing-Explainer-Complicated-Stuff-Simple/dp/0544668251?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780544668256?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780544668256"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHING%252BEXPLAINER%252FRandall%252BMunroe%252F9780544668256&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHING%252BEXPLAINER%252BRandall%252BMunroe"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780544668256&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHING%2BEXPLAINER"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780544668256%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHING%2BEXPLAINER%2BRandall%2BMunroe%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/05a0b20e-3f87-5fc0-88b7-d9fd15900462"
+        },
+        {
+          "rank": 4,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0544703391",
+          "primary_isbn13": "9780544703391",
+          "publisher": "Houghton Mifflin Harcourt",
+          "description": "The creator of the New York Times dialect quiz provides a guide to how words are pronounced in different parts of the country.",
+          "price": "0.00",
+          "title": "SPEAKING AMERICAN",
+          "author": "Josh Katz",
+          "contributor": "by Josh Katz",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780544703391.jpg",
+          "book_image_width": 330,
+          "book_image_height": 314,
+          "amazon_product_url": "https://www.amazon.com/Speaking-American-Youse-Visual-Guide/dp/0544703391?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0544703391",
+              "isbn13": "9780544703391"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/Speaking-American-Youse-Visual-Guide/dp/0544703391?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780544703391?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780544703391"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSPEAKING%252BAMERICAN%252FJosh%252BKatz%252F9780544703391&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSPEAKING%252BAMERICAN%252BJosh%252BKatz"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780544703391&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSPEAKING%2BAMERICAN"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780544703391%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSPEAKING%2BAMERICAN%2BJosh%2BKatz%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/2c2bb347-4714-577a-ad13-acd36876178e"
+        },
+        {
+          "rank": 5,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0316322423",
+          "primary_isbn13": "9780316322423",
+          "publisher": "Little, Brown",
+          "description": "The experience of the young Pakistani advocate for women’s education who was shot by the Taliban and later won the Nobel Peace Prize. Originally published in 2013.",
+          "price": "0.00",
+          "title": "I AM MALALA",
+          "author": "Malala Yousafzai with Christina Lamb",
+          "contributor": "by Malala Yousafzai with Christina Lamb",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316322409.jpg",
+          "book_image_width": 318,
+          "book_image_height": 495,
+          "amazon_product_url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0316322407",
+              "isbn13": "9780316322409"
+            },
+            {
+              "isbn10": "147897978X",
+              "isbn13": "9781478979784"
+            },
+            {
+              "isbn10": "031628663X",
+              "isbn13": "9780316286633"
+            },
+            {
+              "isbn10": "0316322423",
+              "isbn13": "9780316322423"
+            },
+            {
+              "isbn10": "1478902337",
+              "isbn13": "9781478902331"
+            },
+            {
+              "isbn10": "0297870939",
+              "isbn13": "9780297870937"
+            },
+            {
+              "isbn10": "1478983701",
+              "isbn13": "9781478983705"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/Am-Malala-Stood-Education-Taliban/dp/0316322407?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780316322423?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316322423"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FI%252BAM%252BMALALA%252FMalala%252BYousafzai%252Bwith%252BChristina%252BLamb%252F9780316322423&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DI%252BAM%252BMALALA%252BMalala%252BYousafzai%252Bwith%252BChristina%252BLamb"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316322423&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DI%2BAM%2BMALALA"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316322423%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DI%2BAM%2BMALALA%2BMalala%2BYousafzai%2Bwith%2BChristina%2BLamb%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/5c31702f-f0e9-542e-b91a-f715bdf2a5b8"
+        },
+        {
+          "rank": 6,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "1439156816",
+          "primary_isbn13": "9781439156810",
+          "publisher": "Scribner",
+          "description": "A memoir that is a master class on the writer's craft.",
+          "price": "0.00",
+          "title": "ON WRITING",
+          "author": "Stephen King",
+          "contributor": "by Stephen King",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781439156810.jpg",
+          "book_image_width": 310,
+          "book_image_height": 475,
+          "amazon_product_url": "http://www.amazon.com/On-Writing-Anniversary-Edition-Memoir/dp/1439156816?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "https://www.nytimes.com/2000/10/05/books/books-of-the-times-how-to-write-if-you-re-stephen-king.html",
+          "first_chapter_link": "",
+          "sunday_review_link": "https://www.nytimes.com/2000/10/08/books/making-it.html",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "1439156816",
+              "isbn13": "9781439156810"
+            },
+            {
+              "isbn10": "0743211537",
+              "isbn13": "9780743211536"
+            },
+            {
+              "isbn10": "0684853523",
+              "isbn13": "9780684853529"
+            },
+            {
+              "isbn10": "1439193630",
+              "isbn13": "9781439193631"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/On-Writing-Anniversary-Edition-Memoir/dp/1439156816?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781439156810?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781439156810"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FON%252BWRITING%252FStephen%252BKing%252F9781439156810&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DON%252BWRITING%252BStephen%252BKing"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781439156810&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DON%2BWRITING"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781439156810%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DON%2BWRITING%2BStephen%2BKing%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/0893f619-a109-5775-bb6b-6340b1874f0a"
+        },
+        {
+          "rank": 7,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0553418815",
+          "primary_isbn13": "9780553418811",
+          "publisher": "Crown",
+          "description": "How decisions that impact our lives are made by algorithms instead of people.",
+          "price": "0.00",
+          "title": "WEAPONS OF MATH DESTRUCTION",
+          "author": "Cathy O'Neil",
+          "contributor": "by Cathy O'Neil",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780553418811.jpg",
+          "book_image_width": 330,
+          "book_image_height": 495,
+          "amazon_product_url": "http://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0553418815",
+              "isbn13": "9780553418811"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780553418811?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780553418811"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWEAPONS%252BOF%252BMATH%252BDESTRUCTION%252FCathy%252BO%252527Neil%252F9780553418811&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWEAPONS%252BOF%252BMATH%252BDESTRUCTION%252BCathy%252BO%252527Neil"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780553418811&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWEAPONS%2BOF%2BMATH%2BDESTRUCTION"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780553418811%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWEAPONS%2BOF%2BMATH%2BDESTRUCTION%2BCathy%2BO%2527Neil%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/0eda0c65-efef-52bd-96c5-05991fa589aa"
+        },
+        {
+          "rank": 8,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0544812115",
+          "primary_isbn13": "9780544812116",
+          "publisher": "Mariner/Houghton Mifflin Harcourt",
+          "description": "A wide-ranging anthology selected by high school students.",
+          "price": "0.00",
+          "title": "BEST AMERICAN NONREQUIRED READING 2016",
+          "author": "edited  Rachel Kushner",
+          "contributor": "edited by Rachel Kushner",
+          "contributor_note": "edited by Rachel Kushner",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9780544812116.jpg",
+          "book_image_width": 330,
+          "book_image_height": 495,
+          "amazon_product_url": "https://www.amazon.com/Best-American-Nonrequired-Reading-2016/dp/0544812115?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "0544812115",
+              "isbn13": "9780544812116"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/Best-American-Nonrequired-Reading-2016/dp/0544812115?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780544812116?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780544812116"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBEST%252BAMERICAN%252BNONREQUIRED%252BREADING%252B2016%252Fedited%252B%252BRachel%252BKushner%252F9780544812116&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBEST%252BAMERICAN%252BNONREQUIRED%252BREADING%252B2016%252Bedited%252B%252BRachel%252BKushner"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780544812116&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBEST%2BAMERICAN%2BNONREQUIRED%2BREADING%2B2016"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780544812116%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBEST%2BAMERICAN%2BNONREQUIRED%2BREADING%2B2016%2Bedited%2B%2BRachel%2BKushner%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/3d377d78-7ee2-5c1f-a857-4ee32ba31649"
+        },
+        {
+          "rank": 9,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "0143127535",
+          "primary_isbn13": "9780143127536",
+          "publisher": "Penguin",
+          "description": "A mathematician shows how his discipline helps us think about problems of politics, medicine and commerce.",
+          "price": "0.00",
+          "title": "HOW NOT TO BE WRONG",
+          "author": "Jordan Ellenberg",
+          "contributor": "by Jordan Ellenberg",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781594205224.jpg",
+          "book_image_width": 128,
+          "book_image_height": 191,
+          "amazon_product_url": "http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/1594205221?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "1594205221",
+              "isbn13": "9781594205224"
+            },
+            {
+              "isbn10": "0143127535",
+              "isbn13": "9780143127536"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "http://www.amazon.com/How-Not-Be-Wrong-Mathematical/dp/1594205221?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9780143127536?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127536"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FHOW%252BNOT%252BTO%252BBE%252BWRONG%252FJordan%252BEllenberg%252F9780143127536&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DHOW%252BNOT%252BTO%252BBE%252BWRONG%252BJordan%252BEllenberg"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127536&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DHOW%2BNOT%2BTO%2BBE%2BWRONG"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127536%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DHOW%2BNOT%2BTO%2BBE%2BWRONG%2BJordan%2BEllenberg%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/9c3dda13-0c33-5bbb-8dfe-590251816456"
+        },
+        {
+          "rank": 10,
+          "rank_last_week": 0,
+          "weeks_on_list": 0,
+          "asterisk": 0,
+          "dagger": 0,
+          "primary_isbn10": "1452125341",
+          "primary_isbn13": "9781452125343",
+          "publisher": "Chronicle",
+          "description": "From the blog of the same name, 64 intriguing words from a dozen languages.",
+          "price": "0.00",
+          "title": "OTHER-WORDLY",
+          "author": "Yee-Lum Mak",
+          "contributor": "by Yee-Lum Mak",
+          "contributor_note": "",
+          "book_image": "https://storage.googleapis.com/du-prd/books/images/9781452125343.jpg",
+          "book_image_width": 330,
+          "book_image_height": 437,
+          "amazon_product_url": "https://www.amazon.com/Other-Wordly-words-strange-lovely-around/dp/1452125341?tag=NYTBSREV-20",
+          "age_group": "",
+          "book_review_link": "",
+          "first_chapter_link": "",
+          "sunday_review_link": "",
+          "article_chapter_link": "",
+          "isbns": [
+            {
+              "isbn10": "1452125341",
+              "isbn13": "9781452125343"
+            }
+          ],
+          "buy_links": [
+            {
+              "name": "Amazon",
+              "url": "https://www.amazon.com/Other-Wordly-words-strange-lovely-around/dp/1452125341?tag=NYTBSREV-20"
+            },
+            {
+              "name": "Apple Books",
+              "url": "https://goto.applebooks.apple/9781452125343?at=10lIEQ"
+            },
+            {
+              "name": "Barnes and Noble",
+              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781452125343"
+            },
+            {
+              "name": "Books-A-Million",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FOTHER-WORDLY%252FYee-Lum%252BMak%252F9781452125343&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DOTHER-WORDLY%252BYee-Lum%252BMak"
+            },
+            {
+              "name": "Bookshop",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781452125343&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DOTHER-WORDLY"
+            },
+            {
+              "name": "IndieBound",
+              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781452125343%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DOTHER-WORDLY%2BYee-Lum%2BMak%26aff%3DNYT"
+            }
+          ],
+          "book_uri": "nyt://book/adc17919-dc56-5864-bdd1-b459ba4f2c4a"
+        }
+      ],
+      "corrections": []
+    }
+  }
+}
