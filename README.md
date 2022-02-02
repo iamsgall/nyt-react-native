@@ -7,4 +7,4 @@ npm start
 
 ENJOY nyt-react-native overview
 
-tools: react-native, firebase, context, ui-kitten, expo, react-navigation, nyt-API
+tools: react-native, firebase, context, ui-kitten, expo, react-navigation, hookform, yup, stripe, nyt-API
